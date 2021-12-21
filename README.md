@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ---
-## Description of the Analysis
+## Description of the Analysis 
 Louise is looking to kickstart a campaign, so we got a bunch of data with different categories and subcateogries of different kickstarter campaigns to analyse and be able to tell Louise a recommendation of how to pursue her goal according to facts to make her increase the probabilities of success.
 ---
 ## Theater Foundings
