@@ -77,3 +77,4 @@ At the moment I cannot think about limitations, it depedns on what the analysis 
 * Outputs vs Country. To see how probable is to have success. 
 * Outputs vs Topics. Also an important feedback to have for Luoise. 
 
+To see more about the analysis visit the following link were you can see the raw data and graphs: https://github.com/Rauloigs/kickstarter_analysis
